@@ -18,7 +18,7 @@ This project was just to create a readme Generator using Node and installing Inq
 ## Installation
 
 
-You need to make sure that you hvae installed Inquirer to use this. You can just type "npm install Inquirer" in the same directory that you have your index file and it that is done by opening up a CMD prompt/terminal window and typeing Node Index. 
+You need to make sure that you have installed Inquirer to use this after you clone this repo. You can just type "npm install Inquirer" in the same directory that you have your index file and it that is done by opening up a CMD prompt/terminal window and typeing Node Index. 
 
 ## Usage
 
